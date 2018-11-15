@@ -1,0 +1,21 @@
+Main Junction
+Main junction, you can go either west,south,north or east
+splitter
+Area L2
+A dead End,you can see a Gun and you can go only to south direction
+splitter
+Weapon Shop
+A weapon shop,for Buy or Sell the weapon, you can only go to west direction from here
+splitter
+Area L4
+A dead End you can see a knife which you can pick up, , you can only go to east direction from here
+splitter
+Area L5
+A junction from where you can go either north,east or west
+splitter
+Area L6
+A dead end you can see a sword which you can pick up,and you can only go to west direction from here
+splitter
+Area L7
+Dead End where you can see bunch of mafias that are trying to attack you, , you can only go to east direction from here
+splitter

@@ -1,0 +1,48 @@
+Main Junction
+south
+Area L5
+
+Area L5
+north
+Main Junction
+
+Area L5
+east
+Area L6
+
+Area L5
+west
+Area L7
+
+Area L7
+east
+Area L5
+
+Main Junction
+west
+Area L4
+
+Area L4
+east
+Main Junction
+
+Main Junction
+north
+Area L2
+
+Area L2
+south
+Main Junction
+
+Main Junction
+east
+Weapon Shop
+
+Weapon Shop
+west
+Main Junction
+
+Area L6
+west
+Area L5
+
